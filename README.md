@@ -12,11 +12,10 @@
 🏏 Building NexPlay
 
 📫 Email: omkarnathprabhujee16@gmail.com
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhujee1608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=prabhujee1608&theme=tokyonight&hide_border=true" />
 </p>
-
-
-
 
 ![](https://komarev.com/ghpvc/?username=prabhujee1608)
