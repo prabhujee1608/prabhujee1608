@@ -72,7 +72,8 @@ I'm always open to:
 📩 **Reach me on**
 
 - 💼 LinkedIn: https://www.linkedin.com/in/omkar-nath-prabhujee-3b1230326/
-- 📧 Email: **your-email@gmail.com**
+- 📫 Email: omkarnathprabhujee16@gmail.com
+
 
 ---
 
