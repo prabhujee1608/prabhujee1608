@@ -45,29 +45,38 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhujee1608&theme=tokyo-night&hide_border=true" />
 </p>
-<h2 align="center">⚡ Featured Repositories ⚡</h2>
+---
 
-<div align="center">
+# 🏆 Open Source & Coding Journey
 
-<a href="https://github.com/prabhujee1608/newspaper">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=newspaper&theme=tokyonight&hide_border=true"/>
-</a>
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<a href="https://github.com/prabhujee1608/Amazon-react-clone-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=Amazon-react-clone-project&theme=tokyonight&hide_border=true"/>
-</a>
+✔️ Solving Data Structures & Algorithms on LeetCode  
+✔️ Building Full Stack Web Applications  
+✔️ Learning React.js, Node.js & Next.js  
+✔️ Exploring Open Source Contributions  
+✔️ Consistently Improving Problem Solving Skills  
 
-<a href="https://github.com/prabhujee1608/Leetcode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=Leetcode&theme=tokyonight&hide_border=true"/>
-</a>
+---
 
-<a href="https://github.com/prabhujee1608/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=portfolio&theme=tokyonight&hide_border=true"/>
-</a>
+# 🤝 Let's Build Something Amazing
 
-</div>
+I'm always open to:
 
-<!-- Future Project -->
+- 🚀 Full Stack Development Projects
+- 💻 Open Source Collaboration
+- 🧠 DSA & Competitive Programming
+- 📚 Learning New Technologies
+- 💼 Internship Opportunities
+
+📩 **Reach me on**
+
+- 💼 LinkedIn: https://www.linkedin.com/in/omkar-nath-prabhujee-3b1230326/
+- 📧 Email: **your-email@gmail.com**
+
+---
+
+⭐ **If you like my work, consider giving a ⭐ to my repositories!**
 
 </td>
 </tr>
