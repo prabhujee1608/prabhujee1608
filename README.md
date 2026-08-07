@@ -22,3 +22,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prabhujee1608&show_icons=true&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhujee1608&theme=tokyo-night&hide_border=true" />
+</p>
