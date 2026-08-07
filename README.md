@@ -45,3 +45,20 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhujee1608&theme=tokyo-night&hide_border=true" />
 </p>
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/prabhujee1608/Leetcode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=Leetcode&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/prabhujee1608/Amazon-react-clone-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=Amazon-react-clone-project&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prabhujee1608/newspaper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=newspaper&theme=tokyonight" />
+  </a>
+</p>
