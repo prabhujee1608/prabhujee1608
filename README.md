@@ -1,14 +1,57 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b9f-4f9d-8d9e-f6b8b62d2446.gif" width="100%"/>
 
-# Hi 👋, I'm Omkar Nath Prabhujee
+<h1>Hi 👋, I'm Omkar Nath Prabhujee</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;B.Tech+CSE+(Data+Science);ABES+Engineering+College;React+%7C+Next.js+%7C+Node.js;DSA+Enthusiast;Open+Source+Learner;Building+NexPlay+🚀"/>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;B.Tech+CSE+(Data+Science);ABES+Engineering+College;React+%7C+Next.js+%7C+Node.js;DSA+Enthusiast;Open+Source+Contributor;Building+NexPlay+🚀" />
+🚀 <b>Full Stack Developer</b> • 💻 <b>Web Developer</b> • 🌱 <b>DSA Enthusiast</b>
 </p>
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 **B.Tech CSE (Data Science)**  
+🏫 **ABES Engineering College, Ghaziabad, Uttar Pradesh**
+
+💡 Passionate about building modern web applications and solving real-world problems.
+
+🌱 Currently learning **Backend Development, Cloud Computing, System Design & DSA**
+
+🚀 Working on **NexPlay**, Full Stack Projects & Open Source.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/omkar-nath-prabhujee-3b1230326/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://omkarprabhujee.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/omkarnathprabhujee/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/omkar_16_08">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prabhujee1608">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 
 ## 🚀 About Me
