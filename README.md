@@ -12,3 +12,4 @@
 🏏 Building NexPlay
 
 📫 Email: omkarnathprabhujee16@gmail.com
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhujee1608&show_icons=true&theme=tokyonight)
