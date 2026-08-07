@@ -36,178 +36,116 @@
 
 > I love building products that solve real-world problems.
 
----
 
-# 🌐 Connect With Me
+
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/omkar-nath-prabhujee-3b1230326/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://omkarprabhujee.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/omkarnathprabhujee/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.codechef.com/users/omkar_16_08">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prabhujee1608">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
----
 
-# 💻 Tech Stack
+## 🚀 About Me
 
-<p align="center">
+🎓 B.Tech CSE Student
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,c,python,java,mysql,mongodb,git,github,vscode,tailwind,bootstrap,firebase,vercel"/>
+💻 Learning DSA & Full Stack Development
 
-</p>
+🌱 Currently Learning React.js
 
----
+🏏 Building NexPlay
 
-# 📊 GitHub Stats
+📫 Email: omkarnathprabhujee16@gmail.com
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=prabhujee1608)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prabhujee1608&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhujee1608&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=prabhujee1608&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
+## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://github.com/prabhujee1608" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=prabhujee1608&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+  <a href="https://www.linkedin.com/in/omkar-nath-prabhujee-3b1230326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
+  <a href="https://leetcode.com/u/omkarnathprabhujee/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.codechef.com/users/omkar_16_08" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
 </p>
-
----
-
-# 📈 Contribution Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhujee1608&theme=tokyo-night"/>
-
+  <img src="https://streak-stats.demolab.com?user=prabhujee1608&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prabhujee1608&layout=compact&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prabhujee1608&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhujee1608&theme=tokyo-night&hide_border=true" />
+</p>
+---
+
+# 🏆 Open Source & Coding Journey
+
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+✔️ Solving Data Structures & Algorithms on LeetCode  
+✔️ Building Full Stack Web Applications  
+✔️ Learning React.js, Node.js & Next.js  
+✔️ Exploring Open Source Contributions  
+✔️ Consistently Improving Problem Solving Skills  
 
 ---
 
-# 🚀 Featured Projects
+# 🤝 Let's Build Something Amazing
 
-<table>
-<tr>
+I'm always open to:
 
-<td width="50%">
+- 🚀 Full Stack Development Projects
+- 💻 Open Source Collaboration
+- 🧠 DSA & Competitive Programming
+- 📚 Learning New Technologies
+- 💼 Internship Opportunities
 
-## 📰 NexPlay / Newspaper
+📩 **Reach me on**
 
-Modern News Platform
+- 💼 LinkedIn: https://www.linkedin.com/in/omkar-nath-prabhujee-3b1230326/
+- 📫 Email: omkarnathprabhujee16@gmail.com
 
-- React
-- Node.js
-- API Integration
-- Responsive UI
 
-🔗 https://github.com/prabhujee1608/newspaper
 
-</td>
 
-<td width="50%">
+  
+---
 
-## 🛒 Amazon Clone
-
-Responsive E-Commerce Website
-
-- React
-- Firebase
-- Authentication
-- Cart System
-
-🔗 https://github.com/prabhujee1608/Amazon-react-clone-project
+⭐ **If you like my work, consider giving a ⭐ to my repositories!**
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🌐 Portfolio
-
-Personal Portfolio Website
-
-- React
-- Vercel
-- Responsive Design
-
-🔗 https://github.com/prabhujee1608/portfolio
-
-</td>
-
-<td width="50%">
-
-## 💻 LeetCode Solutions
-
-Daily DSA Solutions
-
-- C++
-- Algorithms
-- Data Structures
-
-🔗 https://github.com/prabhujee1608/Leetcode
-
-</td>
-
 </tr>
 </table>
-
----
-
-# 🧠 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/omkarnathprabhujee/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.codechef.com/users/omkar_16_08">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
-
----
-
-# 💬 Quote
-
-<div align="center">
-
-### *"Consistency beats talent when talent doesn't work hard."*
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=prabhujee1608&color=blue&style=for-the-badge)
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
