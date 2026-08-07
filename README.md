@@ -36,15 +36,6 @@
 
 > I love building products that solve real-world problems.
 
-
-
-
-
-
-## 🚀 About Me
-
-🎓 B.Tech CSE Student
-
 💻 Learning DSA & Full Stack Development
 
 🌱 Currently Learning React.js
