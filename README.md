@@ -1,5 +1,15 @@
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Omkar+Nath+Prabhujee;Full+Stack+Developer;DSA+Learner;Building+NexPlay)](https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
+
 # Hi 👋, I'm Omkar Nath Prabhujee
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;B.Tech+CSE+(Data+Science);ABES+Engineering+College;React+%7C+Next.js+%7C+Node.js;DSA+Enthusiast;Open+Source+Contributor;Building+NexPlay+🚀" />
+</p>
+
+</div>
+
 
 ## 🚀 About Me
 
