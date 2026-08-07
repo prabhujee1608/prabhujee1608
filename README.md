@@ -19,3 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prabhujee1608&layout=compact&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prabhujee1608&show_icons=true&theme=tokyonight" />
+</p>
