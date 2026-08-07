@@ -16,3 +16,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prabhujee1608&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prabhujee1608&layout=compact&theme=tokyonight" />
+</p>
