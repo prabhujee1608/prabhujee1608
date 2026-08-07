@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhujee1608&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=prabhujee1608&theme=tokyonight&hide_border=true" />
 </p>
 
