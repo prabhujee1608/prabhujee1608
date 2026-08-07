@@ -1,18 +1,4 @@
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b9f-4f9d-8d9e-f6b8b62d2446.gif" width="100%"/>
-
-<h1>Hi 👋, I'm Omkar Nath Prabhujee</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;B.Tech+CSE+(Data+Science);ABES+Engineering+College;React+%7C+Next.js+%7C+Node.js;DSA+Enthusiast;Open+Source+Learner;Building+NexPlay+🚀"/>
-
-<p>
-🚀 <b>Full Stack Developer</b> • 💻 <b>Web Developer</b> • 🌱 <b>DSA Enthusiast</b>
-</p>
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
