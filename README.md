@@ -73,8 +73,40 @@ I'm always open to:
 
 - 💼 LinkedIn: https://www.linkedin.com/in/omkar-nath-prabhujee-3b1230326/
 - 📫 Email: omkarnathprabhujee16@gmail.com
+<h2 align="center">🚀 Featured Repositories</h2>
 
+<div align="center">
 
+<a href="https://github.com/prabhujee1608/newspaper">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=newspaper&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/prabhujee1608/Amazon-react-clone-project">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=Amazon-react-clone-project&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/prabhujee1608/portfolio">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/prabhujee1608/Leetcode">
+<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=prabhujee1608&repo=Leetcode&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+<h2 align="center">📈 GitHub Contributions</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhujee1608&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prabhujee1608&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prabhujee1608&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ⭐ **If you like my work, consider giving a ⭐ to my repositories!**
