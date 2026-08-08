@@ -1,17 +1,26 @@
-<div align="center">
+<!-- ===== TOP BANNER / IMAGE ===== -->
 
-<img src="./profile-banner.png" alt="Omkar Nath Prabhujee - Web Developer" width="85%"/>
+<p align="center">
+  <img
+    src="./assets/developer-banner.gif"
+    alt="Developer Banner"
+    width="100%"
+  />
+</p>
 
-<br><br>
+<h1 align="center">
+  Hi, I'm Your Name 👋
+</h1>
 
-# 👋 Hi, I'm Omkar Nath Prabhujee
+<p align="center">
+  🚀 Full-Stack Developer | 💻 C++ & DSA | ⚛️ React Developer | ☁️ Cloud Enthusiast
+</p>
 
-### 🚀 Full-Stack Developer | Frontend Developer | CSE Student
+<p align="center">
+  <i>Building projects, solving problems & learning every day 🌙</i>
+</p>
 
-<i>Building modern web experiences, solving problems & learning every day.</i> 🚀
-
-</div>
-
+---
 # 💫 About Me
 
 🎓 **B.Tech CSE (Data Science)**  
