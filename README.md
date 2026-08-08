@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Omkar+Nath+Prabhujee;Full+Stack+Developer;Frontend+Developer;CSE+Student;Open+Source+Enthusiast;Competitive+Programmer" />
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
-
 # 👋 Hi, I'm Omkar Nath Prabhujee
 
 ### 🚀 Full Stack Developer | Frontend Developer | CSE Student
+
+<img src="./profile-banner.png" alt="Web Development Banner" width="90%"/>
+
+<br/>
 
 *"Building scalable web applications and solving real-world problems through technology."*
 
