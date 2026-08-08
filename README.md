@@ -1,10 +1,25 @@
+Then put this at the very first line of README.md:
+
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/adityakmtiwari/adityakmtiwari/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    alt="Developer Banner"
+    src="./github-banner.png" 
+    alt="Developer Portfolio Banner"
     width="100%"
   />
 </p>
+
+<h1 align="center">Hi, I'm Omkar 👋</h1>
+
+<p align="center">
+  💻 CSE Student | Web Developer | C++ & DSA | React.js
+</p>
+
+<p align="center">
+  🚀 Building Projects • Learning • Solving Problems
+</p>
+
+---
+
 # 💫 About Me
 
 🎓 **B.Tech CSE (Data Science)**  
