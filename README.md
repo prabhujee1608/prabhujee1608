@@ -1,5 +1,9 @@
 <!-- ===================== TOP SECTION ===================== -->
+<h1 align="center">Hi, I'm Omkar 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=%3E+git+commit+-m+%22stay+consistent%22;%3E+git+push+origin+main;%3E+building+cool+projects...;%3E+learning+every+day...;%3E+keep+building+%F0%9F%9A%80" />
+</p>
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C2CEB,100:00D9FF&height=220&section=header&text=OMKAR%20NATH%20PRABHUJEE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20C%2B%2B%20%7C%20DSA%20%7C%20REACT.JS&descAlignY=60&descSize=18&animation=fadeIn"
