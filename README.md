@@ -1,23 +1,15 @@
-<!-- ===== TOP BANNER / IMAGE ===== -->
-
 <p align="center">
-  <img
-    src="./assets/developer-banner.gif"
-    alt="Developer Banner"
-    width="100%"
-  />
+  <img src="./developer.png" alt="Developer Banner" width="100%">
 </p>
 
-<h1 align="center">
-  Hi, I'm Your Name 👋
-</h1>
+<h1 align="center">Hi, I'm Omkar 👋</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 💻 C++ & DSA | ⚛️ React Developer | ☁️ Cloud Enthusiast
+  💻 CSE Student | Web Developer | C++ & DSA | React.js
 </p>
 
 <p align="center">
-  <i>Building projects, solving problems & learning every day 🌙</i>
+  Building projects • Learning every day • Solving real-world problems 🚀
 </p>
 
 ---
