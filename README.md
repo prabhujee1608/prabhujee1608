@@ -1,23 +1,40 @@
+<!-- ===================== TOP SECTION ===================== -->
+
 <p align="center">
-  <img src="./github-banner.png" alt="Developer Banner" width="100%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C2CEB,100:00D9FF&height=220&section=header&text=OMKAR%20NATH%20PRABHUJEE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20C%2B%2B%20%7C%20DSA%20%7C%20REACT.JS&descAlignY=60&descSize=18&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
-<h1 align="center">Hi, I'm Omkar 👋</h1>
+<h1 align="center">
+  Hi, I'm Omkar 👋
+</h1>
 
 <p align="center">
-  💻 CSE Student | Web Developer | C++ & DSA | React.js
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=750&lines=I+build+things+for+the+web+%F0%9F%92%BB;C%2B%2B+%7C+DSA+%7C+JavaScript+%7C+React.js;Turning+ideas+into+real+projects+%F0%9F%9A%80;Always+learning.+Always+building.+%F0%9F%94%A5"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  🚀 Building Projects • Learning Every Day • Solving Problems
+  💻 <b>CSE Student</b>
+  &nbsp; • &nbsp;
+  🌐 <b>Web Developer</b>
+  &nbsp; • &nbsp;
+  🧠 <b>Problem Solver</b>
+  &nbsp; • &nbsp;
+  🚀 <b>Lifelong Learner</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabhuj...&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 </p>
 
 ---
----
 
-
----
-
+<!-- ===================== END TOP SECTION ===================== -->
 # 💫 About Me
 
 🎓 **B.Tech CSE (Data Science)**  
