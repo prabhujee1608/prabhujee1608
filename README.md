@@ -1,11 +1,5 @@
-Then put this at the very first line of README.md:
-
 <p align="center">
-  <img 
-    src="./github-banner.png" 
-    alt="Developer Portfolio Banner"
-    width="100%"
-  />
+  <img src="./github-banner.png" alt="Developer Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Omkar 👋</h1>
@@ -15,9 +9,10 @@ Then put this at the very first line of README.md:
 </p>
 
 <p align="center">
-  🚀 Building Projects • Learning • Solving Problems
+  🚀 Building Projects • Learning Every Day • Solving Problems
 </p>
 
+---
 ---
 
 
