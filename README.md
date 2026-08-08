@@ -1,18 +1,16 @@
 <div align="center">
 
+<img src="./profile-banner.png" alt="Omkar Nath Prabhujee - Web Developer" width="85%"/>
+
+<br><br>
+
 # 👋 Hi, I'm Omkar Nath Prabhujee
 
-### 🚀 Full Stack Developer | Frontend Developer | CSE Student
+### 🚀 Full-Stack Developer | Frontend Developer | CSE Student
 
-<img src="./profile-banner.png" alt="Web Development Banner" width="90%"/>
-
-<br/>
-
-*"Building scalable web applications and solving real-world problems through technology."*
+<i>Building modern web experiences, solving problems & learning every day.</i> 🚀
 
 </div>
-
----
 
 # 💫 About Me
 
